@@ -8,6 +8,11 @@
 - **Languages:** C++, Python
 - **Environment:** macOS (Unix), VS Code, Git
 - **Focus:** Data Structures, Algorithm Logic, Big Data Foundations
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apple](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📅 学习记录 (Daily Logs)
 | 日期 | 平台 | 题目 | 语言 | 状态 |
@@ -28,7 +33,11 @@
 
 ### 📈 连续贡献 (Streaks)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhxder&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=f7768e&currStreakNum=9ece6a" width="100%" />
----
+
+### 🎯 目标达成
+![Progress](https://img.shields.io/badge/Algorithm_Progress-25%25-brightgreen?style=flat-square&logo=target)
+![Last Commit](https://img.shields.io/github/last-commit/Yhxder/Code-Notes?style=flat-square&color=orange)
+
 <div align="center">
 
 ---
