@@ -29,10 +29,12 @@
 ### 📈 连续贡献 (Streaks)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhxder&theme=transparent&hide_border=true&stroke=8b5cf6&ring=a78bfa&fire=f59e0b&currStreakNum=8b5cf6" width="100%" />
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" />
-  <br>
-  <i>“Code is the bridge between logic and reality.”</i>
-  <br>
-  <b>INFJ-A · Data Science Explorer</b>
-</p>
+<div align="center">
+
+---
+
+*“ Code is the bridge between logic and reality. ”*
+
+**INFJ-A | Data Science Explorer**
+
+</div>
