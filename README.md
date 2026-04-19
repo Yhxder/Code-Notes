@@ -20,6 +20,19 @@
 - `/Python-Practice`: 逻辑与数据处理专项
 - `sync.py`: 自动化部署脚本，实现本地与云端同步
 
+## 📊 统计看板 (My Stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yhxder&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yhxder's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhxder&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhxder&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 > **INFJ-A | Data Science Explorer**
 > "Code is the bridge between logic and reality."
