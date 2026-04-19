@@ -2,7 +2,7 @@
 
 这里记录我的算法成长轨迹与编程实践。通过每日刷题，持续构建底层逻辑与数据处理能力。
 
-![Progress](https://geps.dev/progress/10)
+![Progress](https://geps.dev/progress/1)
 
 ## 💻 技术栈 (Tech Stack)
 - **Languages:** C++, Python
@@ -17,11 +17,13 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## 📅 学习记录 (Daily Logs)
-| 日期 | 平台 | 题目 | 语言 | 状态 |
-| :--- | :--- | :--- | :--- | :--- |
-| 2026-04-19 | Luogu | P1001 A+B Problem | C++ | ✅ Solved |
-| 2026-04-19 | Luogu | P1000 Super Mario | C++ | ✅ Solved |
+## 📅 学习里程碑 (Milestones)
+
+| 日期 | 类别 | 成就内容 | 状态 |
+| :--- | :--- | :--- | :--- |
+| 2026-04-19 | C++ | 环境配置与 Git 自动化脚本搭建 | ✅ Done |
+| 2026-04-19 | C++ | 洛谷入门 1：顺序结构练习 | ✅ Done |
+| 2026-04-20 | C++ | 掌握分支结构 (If-Else) 与逻辑运算符 | 🏃 In Progress |
 
 ## 📂 目录导航
 - `/Luogu`: 基础算法练习（C++ 实现）
