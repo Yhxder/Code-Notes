@@ -21,18 +21,14 @@
 - `sync.py`: 自动化部署脚本，实现本地与云端同步
 
 ## 📊 统计看板 (My Stats)
+## 📊 统计看板
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yhxder&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yhxder's GitHub Stats" />
-</p>
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| <img width="400" src="https://github-readme-stats.vercel.app/api?username=Yhxder&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=d1d5db&icon_color=a78bfa" /> | <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhxder&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=d1d5db" /> |
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhxder&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhxder&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### 📈 连续贡献 (Streaks)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhxder&theme=transparent&hide_border=true&stroke=8b5cf6&ring=a78bfa&fire=f59e0b&currStreakNum=8b5cf6" width="100%" />
 ---
 > **INFJ-A | Data Science Explorer**
 > "Code is the bridge between logic and reality."
