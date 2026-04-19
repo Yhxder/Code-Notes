@@ -17,6 +17,13 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yhxder&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhxder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yhxder&theme=tokyonight&area=true&hide_border=true" width="100%" />
+
 ## 📅 学习里程碑 (Milestones)
 
 | 日期 | 类别 | 成就内容 | 状态 |
@@ -42,6 +49,10 @@
 ### 🎯 目标达成
 ![Progress](https://img.shields.io/badge/Algorithm_Progress-25%25-brightgreen?style=flat-square&logo=target)
 ![Last Commit](https://img.shields.io/github/last-commit/Yhxder/Code-Notes?style=flat-square&color=orange)
+
+### 📈 活跃趋势 (Activity Graph)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yhxder&theme=tokyonight&area=true&hide_border=true&point=7aa2f7" width="100%" />
 
 <div align="center">
 
