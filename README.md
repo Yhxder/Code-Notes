@@ -24,10 +24,10 @@
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| <img width="400" src="https://github-readme-stats.vercel.app/api?username=Yhxder&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=d1d5db&icon_color=a78bfa" /> | <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhxder&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=d1d5db" /> |
+| <img width="400" src="https://github-readme-stats.vercel.app/api?username=Yhxder&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=e0af68" /> | <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhxder&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" /> |
 
 ### 📈 连续贡献 (Streaks)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhxder&theme=transparent&hide_border=true&stroke=8b5cf6&ring=a78bfa&fire=f59e0b&currStreakNum=8b5cf6" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhxder&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=f7768e&currStreakNum=9ece6a" width="100%" />
 ---
 <div align="center">
 
