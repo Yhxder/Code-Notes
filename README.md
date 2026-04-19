@@ -2,7 +2,7 @@
 
 这里记录我的算法成长轨迹与编程实践。通过每日刷题，持续构建底层逻辑与数据处理能力。
 
-![Progress](https://geps.dev/progress/1)
+![Progress](https://geps.dev/progress/2)
 
 ## 💻 技术栈 (Tech Stack)
 - **Languages:** C++, Python
