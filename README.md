@@ -29,7 +29,7 @@
 
 ## 📅 学习里程碑 (Milestones)
 
-![Progress](https://geps.dev/progress/2) 
+![Progress](https://geps.dev/progress/3) 
 ![Last Commit](https://img.shields.io/github/last-commit/Yhxder/Code-Notes?style=flat-square&color=orange)
 
 | 日期 | 类别 | 成就内容 | 状态 |
